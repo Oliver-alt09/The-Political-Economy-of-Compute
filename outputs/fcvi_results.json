@@ -1,0 +1,61 @@
+{
+  "security_dimension": {
+    "raw_fdirri_scores": {
+      "United States": 0.050962,
+      "China": 0.227,
+      "India": 0.215312,
+      "European Union": 0.02169
+    },
+    "eu_members_used": [
+      "AUT",
+      "BEL",
+      "BGR",
+      "HRV",
+      "CZE",
+      "DNK",
+      "EST",
+      "FIN",
+      "FRA",
+      "DEU",
+      "GRC",
+      "HUN",
+      "IRL",
+      "ITA",
+      "LVA",
+      "LTU",
+      "LUX",
+      "NLD",
+      "POL",
+      "PRT",
+      "ROU",
+      "SVK",
+      "SVN",
+      "ESP",
+      "SWE"
+    ],
+    "n_eu_members": 25,
+    "normalized_v": {
+      "United States": 0.143,
+      "China": 1.0,
+      "India": 0.943,
+      "European Union": 0.0
+    }
+  },
+  "compute_dimension": {
+    "world_total_rmax_tflops_2026": 18732742.2,
+    "shares_2026": {
+      "United States": 0.3754,
+      "China": 0.1269,
+      "India": 0.0065,
+      "European Union": 0.2457
+    },
+    "normalized_v": {
+      "United States": 0.0,
+      "China": 0.674,
+      "India": 1.0,
+      "European Union": 0.352
+    },
+    "india_share_2015": 0.0127,
+    "world_total_rmax_2015": 362652490.4
+  }
+}

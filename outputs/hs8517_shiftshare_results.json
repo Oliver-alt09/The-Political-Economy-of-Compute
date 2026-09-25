@@ -1,0 +1,22 @@
+{
+  "cross_validation_comtrade_vs_moc_report": {
+    "comtrade_india_2015_usd": 788989555.0,
+    "moc_report_india_2015_musd_x1e6": 788989560.0,
+    "match": true
+  },
+  "absolute_growth_2015_2024_comtrade": {
+    "india_hs8517_exports_2015_usd": 788989555.0,
+    "india_hs8517_exports_2024_usd": 21757594135.93,
+    "growth_multiple": 27.58
+  },
+  "two_term_decomposition_2015_2019_moc_report": {
+    "g_world": 0.1048,
+    "g_country": 4.4319,
+    "delta_x": 3496.7224,
+    "market_growth_effect": 82.7194,
+    "competitive_effect": 3414.0031,
+    "market_growth_share_of_total": 0.0237,
+    "competitive_share_of_total": 0.9763,
+    "sum_check": 3496.7224
+  }
+}
